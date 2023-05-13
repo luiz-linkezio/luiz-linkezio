@@ -36,6 +36,14 @@
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" title="VsCode" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode"></a>
 </div>
+
+## Sistemas operacionais / Operating systems 
+
+<div>
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
+  <a href="https://ubuntu.com" target="_blank" title="Ubuntu" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
+</div>
   
 ## Estatísticas / Stats
 
