@@ -60,7 +60,7 @@
 <div>
 <p align="left">
   <a href="https://www.amd.com/en/product/8981" target="_blank" title="Ryzen 5 3500" rel="noreferrer"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 5 3500"></a>
-  <a href="https://www.amd.com/pt/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-580" target="_blank" title="RX 580" rel="noreferrer"><img src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="RX 580"></a>
+  <a href="https://www.amd.com/pt/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-580" target="_blank" title="Radeon RX 580" rel="noreferrer"><img src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Radeon RX 580"></a>
   <a href="https://www.gigabyte.com/br/Motherboard/B550M-GAMING-rev-1x#kf" target="_blank" title="B550M Gaming" rel="noreferrer"><img src="https://img.shields.io/badge/Gigabyte-AMD%20B550M%20Gaming-lightgrey" alt="B550M Gaming"></a>
   <a href="https://www.kingstonstore.com.br/products/kf426c16bb-8?_pos=3&_sid=9bef857e9&_ss=r" target="_blank" title="HyperX Fury de 8GB DDR4 2666Mhz" rel="noreferrer"><img src="https://img.shields.io/badge/Kingston-HyperX%20Fury%20de%208GB%20DDR4%202666Mhz-yellow" alt="HyperX Fury de 8GB DDR4 2666Mhz"></a>
   <a href="https://www.kingstonstore.com.br/products/kf426c16bb-8?_pos=3&_sid=9bef857e9&_ss=r" target="_blank" title="HyperX Fury de 8GB DDR4 2666Mhz" rel="noreferrer"><img src="https://img.shields.io/badge/Kingston-HyperX%20Fury%20de%208GB%20DDR4%202666Mhz-yellow" alt="HyperX Fury de 8GB DDR4 2666Mhz"></a>
