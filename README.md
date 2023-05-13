@@ -46,7 +46,7 @@
   <a href="https://ubuntu.com" target="_blank" title="Ubuntu" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
 </div>
   
-## Estatísticas / Stats
+## Estatísticas GitHub / GitHub Stats
 
 <div> 
 <p align="center">
