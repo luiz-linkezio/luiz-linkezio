@@ -6,9 +6,12 @@
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fluiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Follow luiz-linkezio on GitHub"></a>
 </div>
 
+
+ 
 ## Bio
 
-...
+- **Localização:** Jaboatão dos Guararapes, Pernambuco, Brasil
+- Eu sou um estudante do curso de Sistemas de Informação no Centro de Informática da Universidade Federal de Pernambuco / I am a student of the Information Systems program at the Center for Informatics of the Federal University of Pernambuco.
 
 ## Redes Sociais & Contato / Social Networks & Contact
 
@@ -22,6 +25,7 @@
   <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 </div>
 
+<!-- width="36" height="36" -->
 
 ## Habilidades / Skills
 
