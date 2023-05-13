@@ -33,8 +33,9 @@
 ## Estatísticas / Stats
 
 <div> 
-<p align="top">
+<p align="center">
   <a href="https://github.com/luiz-linkezio">
-  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>
-  <img width= 43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
-<div>
+  <img width= 51% src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=radical" alt="luiz-linkezio's Streaks&Contributions""/>
+  <img width= 48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio&theme=radical" alt="luiz-linkezio's Top languages""/>
+  <img width= 65% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>                                                                             
+<div>                                                                                                                                    
