@@ -1,10 +1,20 @@
-### Hi there 👋
+# Luiz Henrique 👋
+
+## Bio
+
+xxxxxxx
+
+## Redes Sociais & Contato / Social Networks & Contact
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.linkezio/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhbas)
 
+## Estatísticas / Stats
+
+![link-linkezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio)](https://github.com/luiz-linkezio/github-readme-stats)
 
 
 
