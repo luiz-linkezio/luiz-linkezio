@@ -56,7 +56,7 @@
   <img width= 65% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>
 <div>                                                                                                                                    
 
-## Computador principal / Main computer
+## Especificações do computador principal / Main computer specs
 
 <div>
 <p align="left">
