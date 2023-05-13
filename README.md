@@ -3,7 +3,7 @@
 <div>
 <p align="left">
   <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=luiz-linkezio&label=Profile%20views&color=0e75b6&style=flat" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
+  <a href="https://github.com/luiz-linkezio/follow" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Follow luiz-linkezio on GitHub"></a>
 </div>
 
 ## Bio
