@@ -10,7 +10,7 @@
  
 ## Bio
 
-- **Localização:** Jaboatão dos Guararapes, Pernambuco, Brasil
+- **Localização / Location:** Jaboatão dos Guararapes, Pernambuco, Brasil
 - Eu sou um estudante do curso de Sistemas de Informação no Centro de Informática da Universidade Federal de Pernambuco / I am a student of the Information Systems program at the Center for Informatics of the Federal University of Pernambuco.
 
 ## Redes Sociais & Contato / Social Networks & Contact
