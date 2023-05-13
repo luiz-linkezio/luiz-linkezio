@@ -1,7 +1,7 @@
 # Luiz Henrique 👋
 <div>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lhbas/" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
+  <a href="https://github.com/luiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
 </div>
 
 ## Bio
