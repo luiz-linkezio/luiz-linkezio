@@ -14,6 +14,7 @@ xxxxxxx
 <p align="left">
   <a href="https://www.linkedin.com/in/lhbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://www.instagram.com/luiz.linkezio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "https://steamcommunity.com/profiles/76561198199968751/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 
 ## Habilidades / Skills
