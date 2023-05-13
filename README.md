@@ -6,8 +6,6 @@
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fluiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Follow luiz-linkezio on GitHub"></a>
 </div>
 
-
- 
 ## Bio
 
 - **Localização / Location:** Jaboatão dos Guararapes, Pernambuco, Brasil
@@ -25,8 +23,6 @@
   <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 </div>
 
-<!-- width="36" height="36" -->
-
 ## Habilidades / Skills
 
 <div>
@@ -41,5 +37,5 @@
   <a href="https://github.com/luiz-linkezio">
   <img width= 51% src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=radical" alt="luiz-linkezio's Streaks&Contributions""/>
   <img width= 48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio&theme=radical" alt="luiz-linkezio's Top languages""/>
-  <img width= 65% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>                                                                             
+  <img width= 65% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>
 <div>                                                                                                                                    
