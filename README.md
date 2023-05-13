@@ -11,12 +11,11 @@ xxxxxxx
 
 ## Estatísticas / Stats
 
-![link-linkezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio)](https://github.com/luiz-linkezio/github-readme-stats)
-
-
+<div align="center">
+  <a href="https://github.com/luiz-linkezio">
+  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>
+  <img width= 43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
+<br>
 
 
 
