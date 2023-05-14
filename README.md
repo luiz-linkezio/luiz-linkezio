@@ -2,8 +2,8 @@
 
 <div>
 <p align="left">
-  <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=luiz-linkezio&label=Profile%20views&color=0e75b6&style=flat" target="_blank"></a>
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fluiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Follow luiz-linkezio on GitHub"></a>
+  <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=luiz-linkezio&label=Profile%20views&color=0e75b6&style=flat" target="_blank" ></a>
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fluiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Seguir / Follow"></a>
 </div>
 
 ## Bio
@@ -15,12 +15,12 @@
 
 <div>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lhbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.instagram.com/luiz.linkezio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "https://myanimelist.net/profile/linkezio"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
-  <a href = "https://steamcommunity.com/profiles/76561198199968751/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href = "https://launcher.store.epicgames.com/u/98f0c841ee4646d1bad2ff7ad151aa67"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
-  <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lhbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a> 
+  <a href = "https://www.instagram.com/luiz.linkezio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href = "https://myanimelist.net/profile/linkezio"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="My Anime List"></a>
+  <a href = "https://steamcommunity.com/profiles/76561198199968751/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href = "https://launcher.store.epicgames.com/u/98f0c841ee4646d1bad2ff7ad151aa67"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games"></a>
+  <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"></a>
 </div>
 
 ## Habilidades / Skills
@@ -35,7 +35,7 @@
 <div>
 <p align="left">
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://code.visualstudio.com" target="_blank" title="VsCode" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode"></a>
+  <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 </div>
 
 ## Sistemas operacionais / Operating systems 
