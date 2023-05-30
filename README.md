@@ -49,12 +49,15 @@
 ## Estatísticas GitHub / GitHub Stats
 
 <div> 
-<p align="center">
-  <a href="javascript:void(0)">
-  <img width= 51% src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=radical" alt="luiz-linkezio's Streaks&Contributions""/>
-  <img width= 48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio&theme=radical" alt="luiz-linkezio's Top languages""/>
-  <img width= 65% src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=&alt="luiz-linkezio's GitHub stats""/>
-<div>                                                                                                                                    
+  <p align="center">
+    <a href="#" onclick="event.preventDefault();"> <!-- Define uma função JavaScript vazia -->
+      <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=radical" alt="luiz-linkezio's Streaks&Contributions" />
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-linkezio&theme=radical" alt="luiz-linkezio's Top languages" />
+      <img width="65%" src="https://github-readme-stats.vercel.app/api?username=luiz-linkezio&show_icons=true&theme=radical&hide=" alt="luiz-linkezio's GitHub stats" />
+    </a>
+  </p>
+</div>
+                                                                                                                           
 
 ## Especificações do computador principal / Main computer specs
 
