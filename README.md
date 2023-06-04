@@ -6,12 +6,12 @@
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fluiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Seguir / Follow" title="Seguir / Follow"></a>
 </div>
 
-## Bio
+## Bio :dna: :scroll:	
 
 - **Localização / Location:** Jaboatão dos Guararapes, Pernambuco, Brasil
 - Eu sou um estudante do curso de Sistemas de Informação no Centro de Informática da Universidade Federal de Pernambuco / I am a student of the Information Systems program at the Center for Informatics of the Federal University of Pernambuco.
 
-## Redes Sociais & Contato / Social Networks & Contact
+## Redes Sociais & Contato / Social Networks & Contact :incoming_envelope: :mailbox_with_no_mail:	
 
 <div>
 <p align="left">
@@ -23,14 +23,14 @@
   <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" title="Xbox"></a>
 </div>
 
-## Habilidades / Skills
+## Habilidades / Skills :brain:
 
 <div>
 <p align="left">
   <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 </div>
 
-## Ferramentas / Tools
+## Ferramentas / Tools :gear:	:hammer_and_wrench:	
 
 <div>
 <p align="left">
@@ -38,7 +38,7 @@
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
 
-## Sistemas operacionais / Operating systems 
+## Sistemas operacionais / Operating systems :iphone:	
 
 <div>
 <p align="left">
@@ -46,7 +46,7 @@
   <a href="https://ubuntu.com" target="_blank" title="Ubuntu" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
 </div>
   
-## Estatísticas GitHub / GitHub Stats
+## Estatísticas GitHub / GitHub Stats :bar_chart: :chart_with_upwards_trend:	
 
 <div> 
   <p align="center">
@@ -58,13 +58,13 @@
   </p>
 </div>                                                                                                             
 
-## Troféus do Github / Github Trophies ##
+## Troféus do Github / Github Trophies :trophy:	 ##
    
   <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luiz-linkezio&theme=radical-frame=true&no-bg=false&margin-w=4">
   </div>
 
-## Especificações do computador principal / Main computer specs
+## Especificações do computador principal / Main computer specs :desktop_computer:	
 
 <div>
 <p align="left">
