@@ -58,6 +58,12 @@
   </p>
 </div>                                                                                                             
 
+## Troféus do Github / Github Trophies ##
+   
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luiz-linkezio&theme=radical-frame=true&no-bg=false&margin-w=4">
+  </div>
+
 ## Especificações do computador principal / Main computer specs
 
 <div>
