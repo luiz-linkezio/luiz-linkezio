@@ -6,6 +6,8 @@
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fluiz-linkezio" target="_blank"><img src="https://img.shields.io/github/followers/luiz-linkezio?label=Follow&style=social" alt="Seguir / Follow" title="Seguir / Follow"></a>
 </div>
 
+- Most of my repositories have an English version of the README, feel free to check it out.
+
 ## Bio :dna: :scroll:	
 
 - **Localização / Location:** Jaboatão dos Guararapes, Pernambuco, Brasil
