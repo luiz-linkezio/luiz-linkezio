@@ -15,11 +15,14 @@
 
 ## Redes Sociais & Contato / Social Networks & Contact :incoming_envelope: :mailbox_with_no_mail:	
 
+https://open.spotify.com/user/pdphnsmmmdrmavautzan3w8v8?si=13c37872f1ac480d
+
 <div>
 <p align="left">
   <a href="https://www.linkedin.com/in/lhbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" title="Linkedin"></a> 
   <a href = "https://www.instagram.com/luiz.linkezio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
   <a href = "https://myanimelist.net/profile/linkezio"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="My Anime List" title="My Anime List"></a>
+  <a href = "https://open.spotify.com/user/pdphnsmmmdrmavautzan3w8v8?si=80212bd3deb945ab"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Spotify" title="Spotify"></a>
   <a href = "https://steamcommunity.com/profiles/76561198199968751/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam"></a>
   <a href = "https://launcher.store.epicgames.com/u/98f0c841ee4646d1bad2ff7ad151aa67"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" title="Epic Games"></a>
   <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" title="Xbox"></a>
