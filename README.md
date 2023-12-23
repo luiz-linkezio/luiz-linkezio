@@ -26,17 +26,11 @@
   <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=7y3b6J0qlsJ7GdmGm-W4705WPfNZzQ8BDn7CY83lCVZnXvs6FIEr-ySl50eGN5lrZYuY2jaIAdpzl7h2CEQKQhJIgxc1&wa=wsignin1.0"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" title="Xbox"></a>
 </div>
 
-## Habilidades / Skills :brain:
+## Habilidades & Ferramentas / Skills & Tools :brain: :hammer_and_wrench: :gear:
 
 <div>
 <p align="left">
   <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-</div>
-
-## Ferramentas / Tools :hammer_and_wrench: :gear:	
-
-<div>
-<p align="left">
   <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
