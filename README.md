@@ -33,6 +33,7 @@
   <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank" title="Assembly x86" rel="noreferrer"><img src="https://img.shields.io/badge/Assembly-x86-ED1C24?style=for-the-badge&logo=asm&logoColor=green" alt="Assembly x86"></a>
 </div>
 
 ## Sistemas operacionais / Operating systems :iphone:	
