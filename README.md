@@ -35,6 +35,8 @@
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank" title="Assembly x86" rel="noreferrer"><img src="https://img.shields.io/badge/Assembly-x86-ED1C24?style=for-the-badge&logo=asm&logoColor=green" alt="Assembly x86"></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
+  <a href="https://portswigger.net/burp" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Windows"></a>
+  <a href="https://www.wireshark.org" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Windows"></a>
 </div>
   
 ## Estatísticas GitHub / GitHub Stats :bar_chart: :chart_with_upwards_trend:	
