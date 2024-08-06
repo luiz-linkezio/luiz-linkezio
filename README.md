@@ -17,7 +17,7 @@
 
 <div>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lhbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" title="Linkedin"></a> 
+  <a href="https://www.linkedin.com/in/luiz-henrique-brito-4065761b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" title="Linkedin"></a> 
   <a href = "https://www.instagram.com/luiz.linkezio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
   <a href = "https://open.spotify.com/user/pdphnsmmmdrmavautzan3w8v8?si=80212bd3deb945ab"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" title="Spotify"></a>
   <a href = "https://myanimelist.net/profile/linkezio"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="My Anime List" title="My Anime List"></a>
