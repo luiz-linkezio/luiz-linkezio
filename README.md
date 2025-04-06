@@ -31,12 +31,18 @@
 <div>
 <p align="left">
   <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank" title="Assembly x86" rel="noreferrer"><img src="https://img.shields.io/badge/Assembly-x86-ED1C24?style=for-the-badge&logo=asm&logoColor=green" alt="Assembly x86"></a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="https://archlinux.org/" target="_blank" title="Arch Linux" rel="noreferrer"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
   <a href="https://portswigger.net/burp" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Windows"></a>
-  <a href="https://www.wireshark.org" target="_blank" title="Windows" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Windows"></a>
+  <a href="https://keras.io/" target="_blank" title="Keras" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"></a>
+  <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></a>
+  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
+  <a href="https://www.wireshark.org" target="_blank" title="Wireshark" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"></a>
+  <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 </div>
   
 ## Estatísticas GitHub / GitHub Stats :bar_chart: :chart_with_upwards_trend:	
